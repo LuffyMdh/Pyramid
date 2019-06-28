@@ -85,4 +85,5 @@ int main()
 				cout << userChoice << " is an invalid entry, please try again." << endl;
 				break;
 	}
+	return 0;
 }
